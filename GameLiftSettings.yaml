@@ -1,0 +1,41 @@
+version: 1
+CurrentProfileName: Unity-GameLift integraion
+CurrentRegion: eu-west-1
+UserProfiles: >+
+  - Region: eu-west-1
+
+    Name: Unity-GameLift integraion
+
+    BucketName: gamelift-bootstrap-023196572641-eu-west-1
+
+    AnywhereFleetName: 
+
+    AnywhereFleetId: 
+
+    AnywhereFleetLocation: 
+
+    ComputeName: 
+
+    IpAddress: 
+
+    WebSocketUrl: 
+
+    DeploymentScenario: SingleRegion
+
+    DeploymentGameName: 
+
+    ManagedEC2FleetName: 
+
+    BuildName: 
+
+    LaunchParameters: 
+
+    BuildOperatingSystem: 
+
+    DeploymentBuildFilePath: 
+
+    DeploymentBuildFolderPath: 
+
+CurrentBucketName: gamelift-bootstrap-023196572641-eu-west-1
+LastOpenTab: Credentials
+...
