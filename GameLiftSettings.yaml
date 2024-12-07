@@ -1,8 +1,7 @@
 version: 1
+LastOpenTab: ManagedEC2
 CurrentProfileName: Unity-GameLift integraion
 CurrentRegion: eu-west-1
-CurrentBucketName: gamelift-bootstrap-023196572641-eu-west-1
-LastOpenTab: Anywhere
 UserProfiles: >+
   - Region: eu-west-1
 
@@ -24,18 +23,19 @@ UserProfiles: >+
 
     DeploymentScenario: SingleRegion
 
-    DeploymentGameName: 
+    DeploymentGameName: Bino-Game
 
-    ManagedEC2FleetName: 
+    ManagedEC2FleetName: Bino-Game-ManagedFleet
 
-    BuildName: 
+    BuildName: Bino-Game-Single-Region-Build-0.1.0
 
-    LaunchParameters: 
+    LaunchParameters: ''
 
-    BuildOperatingSystem: 
+    BuildOperatingSystem: AMAZON_LINUX_2023
 
-    DeploymentBuildFilePath: 
+    DeploymentBuildFilePath: C:/Active Projects/Personal/DevOps/Int DevOps Course/Unity-GameLift/Bino-Game-Unity/Builds/Server Builds/Bino-Game-Single-Region-Build-0.1.0/Bino-Game-Server.x86_64
 
-    DeploymentBuildFolderPath: 
+    DeploymentBuildFolderPath: C:/Active Projects/Personal/DevOps/Int DevOps Course/Unity-GameLift/Bino-Game-Unity/Builds/Server Builds/Bino-Game-Single-Region-Build-0.1.0
 
+CurrentBucketName: gamelift-bootstrap-023196572641-eu-west-1
 ...
