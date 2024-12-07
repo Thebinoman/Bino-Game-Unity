@@ -16,11 +16,11 @@ UserProfiles: >+
 
     AnywhereFleetLocation: custom-location-1
 
-    ComputeName: ''
+    ComputeName: PC-3-Unity-GameLift-Bino-Game
 
-    IpAddress: 
+    IpAddress: 127.0.0.1
 
-    WebSocketUrl: 
+    WebSocketUrl: wss://eu-west-1.api.amazongamelift.com
 
     DeploymentScenario: SingleRegion
 
