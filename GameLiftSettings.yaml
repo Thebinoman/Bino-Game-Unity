@@ -1,6 +1,8 @@
 version: 1
 CurrentProfileName: Unity-GameLift integraion
 CurrentRegion: eu-west-1
+CurrentBucketName: gamelift-bootstrap-023196572641-eu-west-1
+LastOpenTab: Anywhere
 UserProfiles: >+
   - Region: eu-west-1
 
@@ -8,13 +10,13 @@ UserProfiles: >+
 
     BucketName: gamelift-bootstrap-023196572641-eu-west-1
 
-    AnywhereFleetName: 
+    AnywhereFleetName: Bino-Game-AnywhereFleet
 
-    AnywhereFleetId: 
+    AnywhereFleetId: fleet-513bd2ac-b407-431e-9d70-06988be2dc34
 
-    AnywhereFleetLocation: 
+    AnywhereFleetLocation: custom-location-1
 
-    ComputeName: 
+    ComputeName: ''
 
     IpAddress: 
 
@@ -36,6 +38,4 @@ UserProfiles: >+
 
     DeploymentBuildFolderPath: 
 
-CurrentBucketName: gamelift-bootstrap-023196572641-eu-west-1
-LastOpenTab: Credentials
 ...
