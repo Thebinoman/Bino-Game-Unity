@@ -2,6 +2,7 @@ version: 1
 CurrentProfileName: Unity-GameLift integraion
 CurrentRegion: eu-west-1
 CurrentBucketName: gamelift-bootstrap-023196572641-eu-west-1
+LastOpenTab: Anywhere
 UserProfiles: >+
   - Region: eu-west-1
 
@@ -37,5 +38,4 @@ UserProfiles: >+
 
     DeploymentBuildFolderPath: 
 
-LastOpenTab: Anywhere
 ...
