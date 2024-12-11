@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: GameLiftClientSettings
   m_EditorClassIdentifier: 
   AwsRegion: eu-west-1
-  UserPoolClientId: 5qjkghv4q8ajm67llvdm9okfut
-  ApiGatewayUrl: https://nuty6m27j6.execute-api.eu-west-1.amazonaws.com/v1/
+  UserPoolClientId: 53fgdribvte1nmc1ihcl1r7dr6
+  ApiGatewayUrl: https://8tdvs9xdul.execute-api.eu-west-1.amazonaws.com/v1/
   IsGameLiftAnywhere: 0
